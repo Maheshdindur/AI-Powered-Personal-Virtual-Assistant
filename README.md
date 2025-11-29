@@ -32,7 +32,7 @@ The API is deployed and accessible in multiple environments, showcasing flexibil
 * **Hugging Face Space:**
     * **Link:** [https://huggingface.co/spaces/mahi1432/Virtual\_Me](https://huggingface.co/spaces/mahi1432/Virtual_Me)
 * **Personal Portfolio Website:** Integrated directly into the portfolio via the **Google Cloud-hosted API**, demonstrating production integration.
-     * **Link:** [https://maheshdindur.github.io/](https://huggingface.co/spaces/mahi1432/Virtual_Me)
+     * **Link:** [https://maheshdindur.github.io/](https://maheshdindur.github.io/)
      
 
 ## ⚙️ Project Architecture
